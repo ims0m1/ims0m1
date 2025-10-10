@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mehdi-raji/mehdi-raji/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ims0m1/ims0m1/output/snake.svg" alt="Snake animation" />
   
   <br/><br/><br/>
 </div>
