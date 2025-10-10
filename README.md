@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/نام_کاربری/نام_مخزن/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mehdi-raji/mehdi-raji/output/snake.svg" alt="Snake animation" />
   
   <br/><br/><br/>
 </div>
