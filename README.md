@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ims0m1/ims0m1/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/نام_کاربری/نام_مخزن/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
